@@ -1,0 +1,24 @@
+HP001
+Bill Gates
+windows
+50812
+HP002
+Steve Jobs
+apple
+44780
+HP003
+Dhruvil Patel
+jordan
+50000
+HP004
+Happy Patel
+blue
+35250
+HP005
+Jaspreet Kaur
+delhi
+20000
+
+
+
+0
